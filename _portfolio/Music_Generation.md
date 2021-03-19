@@ -2,7 +2,7 @@
 layout: post
 title: "Mushroom Image Classifier iOS App"
 date: 2020-07-16
-feature-img: "assets/img/portfolio/ttt.png"
+color: rgb(107,9,0)
 img: "assets/img/portfolio/music.png"
 ---
  

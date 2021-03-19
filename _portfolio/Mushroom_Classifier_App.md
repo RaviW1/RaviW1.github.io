@@ -2,7 +2,7 @@
 layout: post
 title: "Mushroom Image Classifier iOS App"
 date: 2018-07-31
-feature-img: "assets/img/portfolio/ttt.png"
+color: rgb(107,9,0)
 img: "assets/img/portfolio/mushroom_classifier.png"
 ---
 This project is my first introduction into computer vision and neural networks.

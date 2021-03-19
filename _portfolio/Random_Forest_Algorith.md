@@ -2,7 +2,7 @@
 layout: post
 title: "Random Forest Algorithm"
 date: 2018-07-18
-feature-img: "assets/img/portfolio/cake.png"
+color: rgb(107,9,0)
 img: "assets/img/portfolio/decision_tree.png"
 ---
 This project was similar to the weather prediction algorithm, however, instead of a autocorrelation 

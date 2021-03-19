@@ -2,7 +2,7 @@
 layout: post
 title: "Weather Prediction App"
 date: 2018-07-26
-feature-img: "assets/img/portfolio/cake.png"
+color: rgb(107,9,0)
 img: "assets/img/portfolio/weather_app.png"
 ---
 
