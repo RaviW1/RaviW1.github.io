@@ -2,6 +2,7 @@
 layout: post
 title: "Weather Prediction Algorithm"
 date: 2018-06-28
+color: rgb(107,9,0)
 excerpt_separator: <!--more-->
 ---
 I have made a weather prediction algorithm that predicts the maximum temprature in Memphis.

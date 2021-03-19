@@ -2,6 +2,7 @@
 title: Website Update
 author: Ravi Wijeratne
 date: '2020-01-20'
+color: rgb(107,9,0)
 layout: post
 excerpt_separator: <!--more-->
 ---
