@@ -3,7 +3,7 @@ title: Another Website Update
 author: Ravi Wijeratne
 date: '2020-11-03'
 layout: post
-color: rgb(66,6,0)
+color: rgb(107,9,0)
 excerpt_separator: <!--more-->
 ---
 
