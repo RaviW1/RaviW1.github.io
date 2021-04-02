@@ -30,4 +30,3 @@ The scatter plot shows that we have a high autocorrelation from the day before t
 This plot show the maximum temperatures from 1960 to 2018
 
 In the future, I plan to improve this model and integrate it into a app.
-thumbnail and header photo by elCarito on Unsplash
