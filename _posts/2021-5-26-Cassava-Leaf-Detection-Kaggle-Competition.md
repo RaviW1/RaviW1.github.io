@@ -40,7 +40,7 @@ a close I was able to submit my final model with a score of 0.8611. I got in
 This was my first Kaggle competition
 and I was able to learn a lot. If I were able to redo this, I would not have spent as much time 
 fine-tuning the MobileNet model as most of it didn't lead anywhere. Overall, I am happy with
-this project and I think I learned quite a bit 
+this project and I think I learned quite a bit.
 {% include aligner.html images="blog/leaderboard.png" %}
 
 I meant to get this post out during February or March but I was still revamping the website
