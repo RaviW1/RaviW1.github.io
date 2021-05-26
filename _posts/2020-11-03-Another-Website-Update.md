@@ -12,7 +12,7 @@ returned to Jekyll after switching to Hugo and used the Type-on-Strap theme to r
 In my opinion, I find that Jekyll has better looking themes than Hugo.
 However, Hugo is a lot simpler and it took longer to set up the Jekyll site.
 Both use markdown to edit posts so it was fairly simple to move the old posts to the new site.
-The most time consuming aspect was changing how the images were ported because of the different
+The most time consuming aspect was changing how the images were imported because of the different
 folder structures.
 I did have some trouble with the audio embed from the previous post and had to rework how 
 I embedded that. 
