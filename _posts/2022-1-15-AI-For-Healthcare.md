@@ -33,7 +33,7 @@ do some more experimentation with the UNet architecture and explore what problem
 apply it to.
 
 ### A visualization of the segmentation model's training performance
-{% include aligner.html images="blog/P2_model_performance.png" %}S
+{% include aligner.html images="blog/P2_model_performance.png" %}
 
 The next project was to build a regression model that predicted expected hospitalization
 time for a patient being given an experimental diabetes drug. This was then used to decide whether 
@@ -46,8 +46,8 @@ how to work with medical data and how to analyze a model based on that data.
 
 ### A visualization of the model's biases
 {% include aligner.html images="blog/model_biases.png" %}
-This model shows significant bias towards Caucasians and African-Americans. There is also 
-a bias towards women over men.
+#### This model shows significant bias towards Caucasians and African-Americans. There is also 
+#### a bias towards women over men.
 
 The final project was utilizing data, in this case heart rate, from wearables. This project used
 data I was very inexperienced with handling. Preprocessing and analyzing the data was very
